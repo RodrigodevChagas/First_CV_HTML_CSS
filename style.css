@@ -1,0 +1,64 @@
+body{
+    background: linear-gradient(rgb(18, 19, 19) 5%, rgb(70, 27, 140) 40%);
+}
+section{
+    display: inline-block;
+    width: 50%;
+}
+.apresentacao{    
+    background: #dfb3ff;
+    padding: 0px 0 44%;
+    box-shadow: inset 0px 0px 100px #bf00ff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    gap: 0.5em;
+}
+h1{
+    margin: 1em 0 ;
+    font-weight: bolder;
+}
+.principal {
+    display: flex;
+    background-color: rgba(138, 138, 138, 0.856);
+    margin: 0% 16%;
+    box-shadow: inset 0px 1px 100px #000000;
+    }
+.perfil{
+    display: grid;
+    justify-content: center;
+}
+.alinha_foto {
+    padding: 7% 0 0 30%;
+}
+
+.foto {
+    border-radius: 100%;
+    width: 100px;
+    margin-top: 2em;
+}
+ul{
+    padding-left: 10em;
+} 
+ul li{
+    display: contents;
+}
+.rede_social{
+    width: 8%;
+    margin: 1em 0 0 1em;
+
+}
+.qualificacao{
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    gap: 0.5em;
+    margin: 3em 2em 0 ;
+}
+.divbraba{
+    text-align: center;
+}
