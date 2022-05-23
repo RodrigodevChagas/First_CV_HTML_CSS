@@ -9,7 +9,7 @@ main{
 }
 section{
     width: 33%;
-    padding: 0px 0 40%;
+    padding: 3% 0 40%;
 }
 .apresentacao{    
     background: #dfb3ff;
@@ -51,7 +51,6 @@ ul li{
 
 }
 .qualificacao{
-    padding: 3% 0 0;
     text-align: center;
     color: white;
     display: flex;
@@ -74,7 +73,7 @@ ul li{
     
     section{
         width: 100%;
-        padding: 0px 0 70%;
+        padding: 3% 0 60%;
     }
     .apresentacao{
         font-size: 14px;
