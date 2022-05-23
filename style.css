@@ -10,6 +10,7 @@ main{
 section{
     width: 33%;
     padding: 3% 0 40%;
+    gap: 0.5em;
 }
 .apresentacao{    
     background: #dfb3ff;
@@ -19,7 +20,6 @@ section{
     justify-content: center;
     align-items: center;
     font-size: 16px;
-    gap: 0.5em;
 }
 h1{
     margin: 1em 0 ;
